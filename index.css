@@ -87,3 +87,15 @@ main{
     justify-content: space-between;
     padding: 43px;
 }
+
+.footer-section{
+    text-align: center;
+    margin: 50px 50px;
+}
+
+.footer-link{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
