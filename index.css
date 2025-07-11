@@ -75,8 +75,15 @@ main{
 
 .user{
     padding: 20px 5px 5px 5px;
+    background-color: #f2eded37;
 }
 .users{
     display: flex;
     justify-content: space-around;
+}
+
+.get-in-touch{
+    display: flex;
+    justify-content: space-between;
+    padding: 43px;
 }
