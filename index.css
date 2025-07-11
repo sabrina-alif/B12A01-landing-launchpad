@@ -37,26 +37,46 @@ nav ul li{
     list-style: none;
 }
 
+main{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
 .about{
     display: flex;
     margin: 50px;
     justify-content: space-between;
 }
 
-.about-item{
-    margin-left: 35px;
-}
-
 .about-title{
     margin-bottom: 10px;
 }
 .about-subtitle{
-    color: #25243278;
+    color: #757575;
     margin-bottom: 10px;
 }
 .section-pic{
     width: 200px;
     height: 150px;
     border-radius: 10px;
-    margin-right: 35px;
+}
+
+.join{
+    background-color: #8987a14a;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.join-items{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.user{
+    padding: 20px 5px 5px 5px;
+}
+.users{
+    display: flex;
+    justify-content: space-around;
 }
